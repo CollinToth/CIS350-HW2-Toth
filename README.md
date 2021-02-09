@@ -7,6 +7,6 @@ Repository for personal CIS350 assignments
 * Interest 3
 
 ### Technical Background
-Programming and/or technical experience
+Programming and/or technical experience (is this "content?")
 
-Favorite meme link
+[Favorite meme UPDATE LINK](https://www.google.com)
